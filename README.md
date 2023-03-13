@@ -3,4 +3,4 @@ To predict whether SONAR signals reflect rocks or mines,  designed to assist wit
 
 
 requirment:
-python, numpy, pandas, matplotlib
+python, numpy, pandas, matplotlib, sklearn
